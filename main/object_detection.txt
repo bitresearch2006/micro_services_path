@@ -1,0 +1,2 @@
+/home/bitresearch/platform/ObjDetection/main
+/home/bitresearch/platform/RWTV/main
